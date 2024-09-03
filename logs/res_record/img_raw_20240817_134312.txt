@@ -1,0 +1,5 @@
+.RAW_IMAGE_DIRECTORY
+a:/TMMIN Project/cuptip_vision/vizcap/assets/img/raw\img_raw_20240817_134312.jpg
+.CONFIRMATION_RES_IMAGE_DIRECTORY
+a:/TMMIN Project/cuptip_vision/vizcap/assets/img/confirmation\img_res_20240817_134312.jpg
+.CONFIRMATION_LIST
